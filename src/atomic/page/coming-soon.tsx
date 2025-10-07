@@ -10,7 +10,6 @@ export default function ComingSoon() {
                     src="/img/coming_soon.webp"
                     className="ms-base-image mb-4"
                     alt={_("COMING_SOON.HEAD")}
-                    //  height={466} width={286}
                 />
                 <h1 className="mb-3">{_("COMING_SOON.HEAD")}</h1>
                 <p className="mb-0" style={{ fontFamily: "os4", color: "#444444" }}>
